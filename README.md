@@ -5,7 +5,7 @@
 이름 : 박건원
 - 생년월일 : 1988-02-25
 - 연락처 : 010-4280-5218
-- Github : 
+- Github : https://github.com/espaeranza
 
 ### 1.2 Education
 - 세종대학교 2008~2016
