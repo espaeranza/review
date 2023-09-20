@@ -11,3 +11,7 @@
 세종대학교 2008~2016
 University of Nebraska at Kearney 2012~2013
 - 전공 : 경영학과
+
+### 1.3  Awards
+추가예정
+
