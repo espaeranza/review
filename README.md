@@ -8,10 +8,15 @@
 - Github : 
 
 ### 1.2 Education
-세종대학교 2008~2016
-University of Nebraska at Kearney 2012~2013
-- 전공 : 경영학과
+- 세종대학교 2008~2016
+- University of Nebraska at Kearney 2012~2013
+  - 전공 : 경영학과
 
 ### 1.3  Awards
 추가예정
+
+### 1.4 Skills
+|Skill|Experiences|Careers|Note|
+|---|---|---|---|
+|Python|3주|-|-|
 
